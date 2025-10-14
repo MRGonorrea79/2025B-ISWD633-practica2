@@ -9,6 +9,7 @@
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR
+<img width="1443" height="189" alt="image" src="https://github.com/user-attachments/assets/ca9e243a-3ccc-4281-9a50-13860529bd4a" />
 
 De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
 
