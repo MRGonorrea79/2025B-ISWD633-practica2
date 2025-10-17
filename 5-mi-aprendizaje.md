@@ -1,6 +1,7 @@
 # COMPLETAR  
 Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Ya sabia de antemano la funcionalidad de estos comandos, razon por la que pude solucionar el problema al crear las variables de entorno asociadas al contenedor de mySQL,asociando una contraseña al usurio "root"
+
+Ya sabia de antemano la funcionalidad de estos comandos, razon por la que pude solucionar el problema al crear las variables de entorno asociadas al contenedor de mySQL,asociando una contraseña al usurio "root" y su creacion desde un archivo env dentro de la hipervisualizadora y tambien puse algunos comandos simplificados que cumplian las mismas funciones de los explicados.
 
 Consultar: Cómo se gestionan datos confidenciales con los secretos de Docker (Docker Secrets).
 # Docker Secrets
